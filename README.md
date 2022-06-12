@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Rokib Hasan</h1>
-<h3 align="center">A passionate Mern Stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Mern Stack Web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrokib231185&label=Profile%20views&color=0e75b6&style=flat" alt="mdrokib231185" /> </p>
 
