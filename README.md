@@ -1,7 +1,7 @@
 ![I am Md Rokib](https://res.cloudinary.com/practicaldev/image/fetch/s--tSq3pK63--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/j71o6fyry39eaz1eyjna.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Rokib Hasan</h1>
+<h1 align="center">Hi 👋, I'm Md Rokib Hasan</h1>
 <h3 align="center">MERN Stack Web Developer and Web Designer</h3>
 
 ![Profile views](https://gpvc.arturio.dev/mdrokib231185) 
