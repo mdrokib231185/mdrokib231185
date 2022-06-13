@@ -12,7 +12,7 @@ Knock me: m.facebook.com/mdrokib231185
 Skills:BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
  
 
-- 🌱 I’m currently learning **JS, React Native, React**
+- 🌱 I’m currently learning **typscript, React Native, Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdrokib2311185](https://github.com/mdrokib231185)
 
